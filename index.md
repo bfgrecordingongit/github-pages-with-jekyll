@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Benjamin's Wiki Creation Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hey. I am developing a wiki for my school and will try out some different things and document my progress here. 
