@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blog the first one"
+title: "blog the first one"
 date: 2021-06-03
 ---
 
